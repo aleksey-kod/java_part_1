@@ -1,6 +1,7 @@
 package ObjectOrientedProgramming;
 
 public class Wizard extends Basehero {
+
     private boolean magic;
 
     public Wizard(String name) {

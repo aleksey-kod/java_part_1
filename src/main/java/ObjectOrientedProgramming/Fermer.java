@@ -1,6 +1,7 @@
 package ObjectOrientedProgramming;
 
 public class Fermer extends Basehero {
+
     private boolean delivery;
 
     public Fermer(String name) {

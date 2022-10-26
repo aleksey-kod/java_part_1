@@ -1,6 +1,7 @@
 package ObjectOrientedProgramming;
 
 public class Monk extends Basehero {
+
     public boolean magic;
 
     public Monk(String name) {

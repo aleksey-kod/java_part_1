@@ -1,6 +1,7 @@
 package ObjectOrientedProgramming;
 
 public abstract class Basehero implements Actions {
+
     private static int number = 0;
     private int attack;
     private int def;

@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Random;
 
 public class Lesson2 {
+
     // side 0 whiteSide
     // side 1 darkSide
 
